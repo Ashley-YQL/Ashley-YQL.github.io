@@ -4,5 +4,5 @@
   if (response=="虎")
     {alert("bingo！");}
   else
-    {alert("错啦！再好好看看~") }
+    {alert("错啦！再好好看一看噢~") }
   }
